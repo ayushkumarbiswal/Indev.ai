@@ -75,7 +75,6 @@ Indev.ai bridges the gap between small startups, vendors, and investors by creat
 ## 📊 Author 
 Ayush Kumar Biswal
 
-Veerdhawal Katakdaunde
 
 
 
