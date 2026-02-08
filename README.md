@@ -73,7 +73,7 @@ Indev.ai bridges the gap between small startups, vendors, and investors by creat
 
 
 ## 📊 Author 
-Aditya Katkar (Team Leader)
+Ayush Kumar Biswal
 
 Veerdhawal Katakdaunde
 
